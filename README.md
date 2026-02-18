@@ -174,4 +174,5 @@ It is designed to demonstrate how semantic segmentation can be used as a base la
 
 the values generated are comparative measures not absolute measures.
 
+Due to compute and time constraints, we prioritized building a deployable feasibility analysis layer on top of a strong pretrained model instead of chasing leaderboard metrics. The model backbone can be fine-tuned later if higher segmentation accuracy is needed.
 
